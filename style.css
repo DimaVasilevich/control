@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border;
+}
+
+.composition {
+    width: 600px;
+    height: 400px;
+    background: url("./img/bg.jfif");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.dog {
+    position: absolute;
+    left: 210px;
+    top: 338px;
+    width: 70px;
+    height: 70px;
+}
+
+.home {
+    position: absolute;
+    left: 300px;
+    top: 214px;
+    width: 200px;
+    height: 200px;
+}
+
+.moo {
+    position: absolute;
+    left: 135px;
+    top: 333px;
+    width: 70px;
+    height: 70px;
+}
+
+.sar {
+    position: absolute;
+    left: 280px;
+    top: 40px;
+    width: 70px;
+    height: 70px;
+}
+
+.fox {
+    position: absolute;
+    left: 500px;
+    top: 332px;
+    width: 70px;
+    width: 70px;
+}
+
+.tree {
+    position: absolute;
+    left: 10px;
+    top: 165px;
+    width: 240px;
+    height: 240px;
+}
